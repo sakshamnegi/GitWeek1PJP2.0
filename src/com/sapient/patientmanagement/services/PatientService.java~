@@ -7,6 +7,4 @@ public interface PatientService {
 	public String addPatient(Patient p);
 
 	public String getPatientDetails(String id);
-
-  removePatient(String Id);
 }
